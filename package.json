@@ -1,0 +1,29 @@
+{
+  "name": "@bu0nq/asset-scss-mixin",
+  "version": "0.1.0",
+  "description": "Package for integrating Asset SCSS Mixin",
+  "files": [
+    "./**/*.scss"
+  ],
+  "keywords": [
+    "asset",
+    "scss",
+    "mixin"
+  ],
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bu0nq/asset-scss-mixin.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/asset-scss-mixin/issues"
+  },
+  "homepage": "https://github.com/bu0nq/asset-scss-mixin#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
